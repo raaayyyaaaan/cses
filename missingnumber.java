@@ -14,7 +14,7 @@ public class missingnumber {
         System.out.println((n*(n+1)/2) - sum);
         // System.out.println("sum equals:" + sum);
         
-
+// dsf
 
     }
 
